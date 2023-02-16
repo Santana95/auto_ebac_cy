@@ -16,11 +16,6 @@ class EnderecoPage{
         cy.get('#billing_email').clear().type(email);
         cy.get('.button').click();
     }
-
-    editarEnderecoEntrega() {
-
-    }
-
 }
 
 export default new EnderecoPage();
