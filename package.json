@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Santana95/auto_ebac_cy#readme",
   "devDependencies": {
     "cypress": "^12.4.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
   }
 }
